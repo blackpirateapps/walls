@@ -23,6 +23,12 @@
          "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
          "name": "Drops",
          "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
+      },
+      {
+         "author": "No One",
+         "url": "https://github.com/blackpirateapps/walls/raw/master/walls%20(30).png",
+         "name": "Dessert",
+         "thumbnail": "https://github.com/blackpirateapps/walls/raw/master/walls%20(30).jpg"
       }
    ]
 }
