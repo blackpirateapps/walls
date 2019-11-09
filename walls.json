@@ -29,6 +29,12 @@
          "url": "https://github.com/blackpirateapps/walls/raw/master/walls%20(30).png",
          "name": "Dessert",
          "thumbnail": "https://github.com/blackpirateapps/walls/raw/master/walls%20(30).jpg"
-      }
+      },
+      {
+        "author": "Unknown",
+        "url": "https://github.com/blackpirateapps/walls/raw/walls_main/walls%20(10).png",
+        "name": "Jumping Deer",
+        "thumbnail": "https://github.com/blackpirateapps/walls/raw/thumbnail/walls%20(10)_compress40.jpg"
+       }
    ]
 }
